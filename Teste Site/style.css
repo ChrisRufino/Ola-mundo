@@ -1,4 +1,13 @@
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
-  background: url(./konaha.jpg) no-repeat top center/cover;
+  background: url(./back/konaha.jpg) no-repeat top center/cover;
+}
+
+body * {
+  font-family: "Inter", sans-serif;
+  color: #ffff;
 }
