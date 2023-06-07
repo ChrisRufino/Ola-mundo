@@ -1,2 +1,4 @@
-# Ola mundo
- Porjeto git e github
+# Olá, mundo!
+ Primeiro depositório do cuso Git e GITHUB
+
+ Repositório criado duarante uma aula ao vivo!
